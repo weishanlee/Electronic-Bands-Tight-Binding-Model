@@ -5,7 +5,7 @@ Descriptions of the fortran codes:
 
 (1)The main program is tbhf_main.for.
 (2)The tbhf.for calculates the eigenvalues and eigenvectors at K-points of the LCAO matrix whose elements are given in the tbparameters.dat file for different  materials
-(3)The order of parameters, extracted from TABLE 1 in Ref [1], in the matrix elements is as follows:
+(3)The order of parameters, extracted from TABLE 1 in Ref [1], in the matrix elements as follows:
     	E(s,a), E(p,a), E(s,c), E(p,c), V(s,s), V(x,x)
     	V(x,y), V(sa,pc), V(sc,pa), E(s*,a), E(s*,c)
     	V(s*a,pc), V(pa,s*c)
